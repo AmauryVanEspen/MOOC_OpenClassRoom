@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1402939444 source:c:\users\amaury\git\mooc_openclassroom\mooc openclassroom\c++\saisie_utilisateur\main.cpp
+	<iostream>
+	<string>
+

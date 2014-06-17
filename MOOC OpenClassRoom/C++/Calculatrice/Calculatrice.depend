@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1402952659 source:c:\users\amaury\git\mooc_openclassroom\mooc openclassroom\c++\calculatrice\main.cpp
+	<iostream>
+	<cmath>
+
